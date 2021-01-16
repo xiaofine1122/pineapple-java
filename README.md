@@ -1,7 +1,7 @@
 # pineapple-java
 Java implementation of pineapple language (https://github.com/karminski/pineapple) as a personal exercise.
+
 A poor imitation
-...
 
 ### demo
 ```
